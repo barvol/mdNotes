@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "3e95dfdd6a6948eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b66e7f7aee3db68",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fullstack Note.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0edb20d9d8a64b7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c3d18e8afe47f39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51e06cb4c4952e5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c006a7ac98ea340b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 171.5
+  },
+  "right": {
+    "id": "484845c07c87a94d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c824f2c36a26794b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29941a7e9b0f7a5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fullstack Note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3b66e7f7aee3db68",
+  "lastOpenFiles": [
+    "Fullstack Note.md",
+    "TO-DO.md"
+  ]
+}
