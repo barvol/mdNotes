@@ -4,9 +4,11 @@
 
 - [ ] Изучение WEB курса по GO [Ссылка Youtube][1]
 - [ ] Записаться на обучение у Владилена Минина
-- [ ] Изучить фреймворк HUGO [Ссылка Youtube][2]
+- [ ] Изучить фреймворк [[HUGO]] [Ссылка Youtube][2]
 - [ ] Изучить создание карусели в [HUGO][3]
 
+
+[HUGO SITE](https://www.youtube.com/watch?v=JgtyQeWkXxE)
 
 ---
 [1]: https://www.youtube.com/watch?v=0s3Jz8Y_cq8&list=PLP19RjSHH4aE9pB77yT1PbXzftGsXFiGl&index=3

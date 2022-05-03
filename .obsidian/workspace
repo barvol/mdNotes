@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fullstack Note.md",
-            "mode": "source",
+            "file": "TO-DO.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fullstack Note.md",
+                "file": "TO-DO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -84,12 +84,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "3b66e7f7aee3db68",
   "lastOpenFiles": [
+    "TO-DO.md",
+    "HUGO.md",
     "Fullstack Note.md",
-    "TO-DO.md"
+    "создание.md",
+    "dd9f3239afd32324268c8116b98c9d43.png.webp"
   ]
 }
