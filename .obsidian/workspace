@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3b66e7f7aee3db68",
+        "id": "a72f25a8e04282ec",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "TO-DO.md",
-            "mode": "preview",
-            "source": true
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "to-do",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,13 +84,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "3b66e7f7aee3db68",
+  "active": "a72f25a8e04282ec",
   "lastOpenFiles": [
     "TO-DO.md",
+    "assets/IMG_E55AD6E2A4AC-1.jpeg",
+    "JavaScript.md",
     "HUGO.md",
     "Fullstack Note.md",
+    "Templates/main.md",
+    "Test.md",
     "создание.md",
     "dd9f3239afd32324268c8116b98c9d43.png.webp"
   ]
