@@ -8,4 +8,4 @@ Date: {{date}}
 
 
 ---
-links:
+links: 

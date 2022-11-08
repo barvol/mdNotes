@@ -1,13 +1,14 @@
 # Fullstack GO
+Tags: #GO
+Date: 2022-05-03
 
-## Первая ступень изучения языку GO!
-
+## Задачи по изучению GO!
 - [ ] Изучение WEB курса по GO [Ссылка Youtube][1]
 - [ ] Записаться на обучение у Владилена Минина
 - [ ] Изучить фреймворк [[HUGO]] [Ссылка Youtube][2]
+- [ ] Создание сайта на [GO](https://www.youtube.com/watch?v=mBLpAx06l44)
 
 ## Основы:
-
 ### Массивы и слайсы:
 ```GO 
 //Массив
@@ -151,6 +152,14 @@ func main() {
    fmt.Println(dev.Min())  
 }
 ```
+
+
+## Дополнения в других заметках:
+[[Обработка ошибок в GO]]
+[[Программирование]]
+[[Goroutine]]
+
 ***
 [1]: https://www.youtube.com/watch?v=0s3Jz8Y_cq8&list=PLP19RjSHH4aE9pB77yT1PbXzftGsXFiGl&index=3
 [2]: https://www.youtube.com/channel/UCtlnMUJr68ytsr11_dv_elg/videos
+

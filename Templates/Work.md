@@ -2,16 +2,14 @@
 Name: {{title}}
 INN: 
 Date: {{date}}
-Tags: 
-To date: none
+Status: go
+ToDate: none
 ---
 #### Информация:
 
 
-
-
 #### Результат:
-
+- не звонил
 
 ---
 tags: 

@@ -10,3 +10,4 @@
 go
 whait
 stop
+win
